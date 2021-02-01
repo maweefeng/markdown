@@ -6,6 +6,8 @@ target 'MarkDemo' do
   use_frameworks!
   # MarkDown
   pod 'Down'
+  pod 'YYKit'
+
   # Pods for MarkDemo
 
 end

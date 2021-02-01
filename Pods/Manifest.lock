@@ -1,16 +1,22 @@
 PODS:
   - Down (0.9.4)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
 
 DEPENDENCIES:
   - Down
+  - YYKit
 
 SPEC REPOS:
   trunk:
     - Down
+    - YYKit
 
 SPEC CHECKSUMS:
   Down: 276f2c3eeeaf30345873bdad25f44b2640fcfa3a
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
-PODFILE CHECKSUM: 9fff9e8f19a55aa780942d9ea2518dc1a0c0ea0c
+PODFILE CHECKSUM: 61018f9777ca076bb96f61dd1eca03b0ef623e3d
 
 COCOAPODS: 1.10.1
